@@ -16,7 +16,7 @@ PatchOmicsSurvival/
 │   ├── patch_feature_extractor.py          # Extract ResNet patch embeddings
 │   ├── omics_image_fusion.py               # Combine omics + image features
 │   ├── train_deepsurv.py                   # Train DeepSurv model
-│   └── download_data.py                    # Auto-download PCam and TCGA data
+│   └── download_data.py                    # Auto-download PCam and TCGA data (optional if data exists locally)
 ├── models/
 │   ├── deepsurv.py                         # PyTorch DeepSurv model
 │   └── aggregation_heads.py                # Optional attention/contrastive modules
