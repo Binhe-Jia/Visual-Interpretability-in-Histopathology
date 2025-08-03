@@ -28,6 +28,7 @@ PatchOmicsSurvival/
 ```
 
 ---
+Note: the project structure is subjected to future modification
 
 ## Citation & Credits
 
