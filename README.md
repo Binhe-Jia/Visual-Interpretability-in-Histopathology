@@ -2,7 +2,7 @@
 
 **Patch-Level Cancer Detection + Multi-Omics Survival Modeling**
 
-This project integrates patch-level histopathology classification (PCam dataset) with survival prediction based on TCGA-COAD transcriptomic data. It includes Grad-CAM visualization, DeepSurv training, and a full Streamlit interface.
+This project integrates patch-level histopathology classification (PCam dataset) with survival prediction based on TCGA-COAD transcriptomic data. It includes Grad-CAM visualization, DeepSurv training, and (if time permitted) a full Streamlit interface.
 
 ---
 
