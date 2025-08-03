@@ -33,7 +33,7 @@ Note: the project structure is subjected to future modification
 ## Citation & Credits
 
 - PCam: https://github.com/basveeling/pcam
-- TCGA COAD: https://xenabrowser.net/
+- TCGA COAD: https://xenabrowser.net/ or https://www.cancerimagingarchive.net/collection/tcga-coad/
 - Grad-CAM: Selvaraju et al., 2017
 - DeepSurv: Katzman et al., 2018
 
